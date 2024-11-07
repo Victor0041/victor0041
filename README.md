@@ -63,7 +63,7 @@
                 </a>
             </li>
             <li>
-                <a href="https://www.instagram.com/victor_MS" target="_blank">
+                <a href="https://www.instagram.com/victor_30sV" target="_blank">
                     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
                 </a>
             </li>
